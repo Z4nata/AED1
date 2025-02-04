@@ -5,7 +5,7 @@
 #define MAX_NOME 21
 
 void inserir_amigos(char lista[][MAX_NOME], int *total, char nova_lista[][MAX_NOME], int total_novos, char *amigo_indicado) {
-    int pos_insercao = *total; // Posição de inserção por padrão é o final da lista
+    int pos_insercao = *total; 
 
     if (strcmp(amigo_indicado, "nao") != 0) {
         for (int i = 0; i < *total; i++) {
@@ -51,7 +51,7 @@ int main() {
     }
 
     fgets(amigo_indicado, sizeof(amigo_indicado), stdin);
-    amigo_indicado[strcspn(amigo_indicado, "\n")] = '\0';  // Remove o '\n' do final
+    amigo_indicado[strcspn(amigo_indicado, "\n")] = '\0';  
 
     inserir_amigos(lista_amigos, &total_amigos, nova_lista, total_novos, amigo_indicado);
 
