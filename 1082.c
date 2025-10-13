@@ -9,6 +9,7 @@ char adj[MAXSIZE][MAXSIZE];
 char vertices[MAXSIZE];
 int tam, m, n;
 
+
 void dfs(int);
 int compara(const void *, const void *);
 
