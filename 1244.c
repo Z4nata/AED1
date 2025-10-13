@@ -4,6 +4,7 @@
 #define MAX_STRINGS 50
 #define MAX_LENGTH 51
 
+
 void stableSort(char palavras[][MAX_LENGTH], int tam) {
     char aux[MAX_LENGTH];
     for (int i = 1; i < tam; i++) {
