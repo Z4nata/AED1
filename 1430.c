@@ -1,6 +1,7 @@
 #include <string.h>
 #include <stdio.h>
 
+
 double duracaoNota(char nota)
 {
     switch (nota)
