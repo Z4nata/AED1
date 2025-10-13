@@ -5,6 +5,7 @@
 #define MAX_ITEMS 1000
 #define MAX_LENGTH 21
 
+
 int compare(const void *a, const void *b) {
     return strcmp(*(const char **)a, *(const char **)b);
 }
