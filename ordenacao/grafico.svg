@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 360" width="860" height="360" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="860" height="360" rx="10" fill="#ffffff"/>
+<text x="58" y="28" font-size="14" font-weight="600" fill="#111114">Insertion Sort — O(n²)</text>
+<line x1="58" x2="414" y1="308" y2="308" stroke="#e5e5e5"/><text x="50" y="312" font-size="11" fill="#55555e" text-anchor="end">0 s</text>
+<line x1="58" x2="414" y1="220.66666666666669" y2="220.66666666666669" stroke="#e5e5e5"/><text x="50" y="224.66666666666669" font-size="11" fill="#55555e" text-anchor="end">3 s</text>
+<line x1="58" x2="414" y1="133.33333333333334" y2="133.33333333333334" stroke="#e5e5e5"/><text x="50" y="137.33333333333334" font-size="11" fill="#55555e" text-anchor="end">6 s</text>
+<line x1="58" x2="414" y1="46" y2="46" stroke="#e5e5e5"/><text x="50" y="50" font-size="11" fill="#55555e" text-anchor="end">9 s</text>
+<text x="58" y="326" font-size="11" fill="#55555e" text-anchor="middle">0</text>
+<text x="147" y="326" font-size="11" fill="#55555e" text-anchor="middle">5 mil</text>
+<text x="236" y="326" font-size="11" fill="#55555e" text-anchor="middle">10 mil</text>
+<text x="325" y="326" font-size="11" fill="#55555e" text-anchor="middle">15 mil</text>
+<text x="414" y="326" font-size="11" fill="#55555e" text-anchor="middle">20 mil</text>
+<line x1="58" x2="414" y1="308" y2="308" stroke="#111114"/>
+<text x="236" y="348" font-size="12" fill="#55555e" text-anchor="middle">tamanho do vetor (n)</text>
+<path d="M75.8,307.3 L111.4,301.1 L147.0,290.9 L182.6,275.2 L218.2,250.1 L253.8,225.2 L289.4,198.6 L325.0,151.5 L360.6,106.4 L396.2,52.2" fill="none" stroke="#c2410c" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="75.8" cy="307.3" r="3" fill="#c2410c"/>
+<circle cx="111.4" cy="301.1" r="3" fill="#c2410c"/>
+<circle cx="147.0" cy="290.9" r="3" fill="#c2410c"/>
+<circle cx="182.6" cy="275.2" r="3" fill="#c2410c"/>
+<circle cx="218.2" cy="250.1" r="3" fill="#c2410c"/>
+<circle cx="253.8" cy="225.2" r="3" fill="#c2410c"/>
+<circle cx="289.4" cy="198.6" r="3" fill="#c2410c"/>
+<circle cx="325.0" cy="151.5" r="3" fill="#c2410c"/>
+<circle cx="360.6" cy="106.4" r="3" fill="#c2410c"/>
+<circle cx="396.2" cy="52.2" r="3" fill="#c2410c"/>
+<rect x="72" y="52" width="14" height="4" rx="2" fill="#c2410c"/><text x="92" y="57" font-size="12" fill="#111114">Insertion Sort</text>
+<text x="484" y="28" font-size="14" font-weight="600" fill="#111114">Merge Sort × Quick Sort — O(n log n)</text>
+<line x1="484" x2="840" y1="308" y2="308" stroke="#e5e5e5"/><text x="476" y="312" font-size="11" fill="#55555e" text-anchor="end">0 s</text>
+<line x1="484" x2="840" y1="242.5" y2="242.5" stroke="#e5e5e5"/><text x="476" y="246.5" font-size="11" fill="#55555e" text-anchor="end">0,2 s</text>
+<line x1="484" x2="840" y1="177" y2="177" stroke="#e5e5e5"/><text x="476" y="181" font-size="11" fill="#55555e" text-anchor="end">0,4 s</text>
+<line x1="484" x2="840" y1="111.50000000000003" y2="111.50000000000003" stroke="#e5e5e5"/><text x="476" y="115.50000000000003" font-size="11" fill="#55555e" text-anchor="end">0,6 s</text>
+<line x1="484" x2="840" y1="46" y2="46" stroke="#e5e5e5"/><text x="476" y="50" font-size="11" fill="#55555e" text-anchor="end">0,8 s</text>
+<text x="484" y="326" font-size="11" fill="#55555e" text-anchor="middle">0</text>
+<text x="573" y="326" font-size="11" fill="#55555e" text-anchor="middle">50 mil</text>
+<text x="662" y="326" font-size="11" fill="#55555e" text-anchor="middle">100 mil</text>
+<text x="751" y="326" font-size="11" fill="#55555e" text-anchor="middle">150 mil</text>
+<text x="840" y="326" font-size="11" fill="#55555e" text-anchor="middle">200 mil</text>
+<line x1="484" x2="840" y1="308" y2="308" stroke="#111114"/>
+<text x="662" y="348" font-size="12" fill="#55555e" text-anchor="middle">tamanho do vetor (n)</text>
+<path d="M519.6,290.5 L555.2,270.8 L590.8,242.1 L626.4,211.8 L662.0,174.0 L697.6,154.0 L733.2,145.9 L768.8,128.5 L804.4,102.5 L840.0,78.6" fill="none" stroke="#157d3c" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="519.6" cy="290.5" r="3" fill="#157d3c"/>
+<circle cx="555.2" cy="270.8" r="3" fill="#157d3c"/>
+<circle cx="590.8" cy="242.1" r="3" fill="#157d3c"/>
+<circle cx="626.4" cy="211.8" r="3" fill="#157d3c"/>
+<circle cx="662.0" cy="174.0" r="3" fill="#157d3c"/>
+<circle cx="697.6" cy="154.0" r="3" fill="#157d3c"/>
+<circle cx="733.2" cy="145.9" r="3" fill="#157d3c"/>
+<circle cx="768.8" cy="128.5" r="3" fill="#157d3c"/>
+<circle cx="804.4" cy="102.5" r="3" fill="#157d3c"/>
+<circle cx="840.0" cy="78.6" r="3" fill="#157d3c"/>
+<rect x="498" y="52" width="14" height="4" rx="2" fill="#157d3c"/><text x="518" y="57" font-size="12" fill="#111114">Merge Sort</text>
+<path d="M519.6,294.8 L555.2,281.4 L590.8,261.8 L626.4,218.7 L662.0,205.8 L697.6,204.4 L733.2,183.3 L768.8,195.9 L804.4,159.9 L840.0,123.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="519.6" cy="294.8" r="3" fill="#2563eb"/>
+<circle cx="555.2" cy="281.4" r="3" fill="#2563eb"/>
+<circle cx="590.8" cy="261.8" r="3" fill="#2563eb"/>
+<circle cx="626.4" cy="218.7" r="3" fill="#2563eb"/>
+<circle cx="662.0" cy="205.8" r="3" fill="#2563eb"/>
+<circle cx="697.6" cy="204.4" r="3" fill="#2563eb"/>
+<circle cx="733.2" cy="183.3" r="3" fill="#2563eb"/>
+<circle cx="768.8" cy="195.9" r="3" fill="#2563eb"/>
+<circle cx="804.4" cy="159.9" r="3" fill="#2563eb"/>
+<circle cx="840.0" cy="123.0" r="3" fill="#2563eb"/>
+<rect x="498" y="70" width="14" height="4" rx="2" fill="#2563eb"/><text x="518" y="75" font-size="12" fill="#111114">Quick Sort</text>
+</svg>

@@ -1,0 +1,6 @@
+# executáveis e objetos gerados pela compilação
+*.exe
+*.o
+*.out
+laboratorio
+programa
